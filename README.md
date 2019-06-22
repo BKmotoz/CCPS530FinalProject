@@ -12,6 +12,7 @@ Postgres
 Bootstrap:
 colorpicker
 image resizing
+https://speckyboy.com/plugins-for-extending-bootstrap/
 
 API's using JQuery
 GifPlayer
