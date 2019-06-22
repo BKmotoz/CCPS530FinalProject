@@ -1,0 +1,37 @@
+{
+  "name": "gifplayer",
+  "version": "0.3.3",
+  "description": "Customizable jquery plugin to play and stop animated gifs. Similar to 9gag's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gif",
+    "9gag",
+    "animated",
+    "player"
+  ],
+  "author": {
+    "name": "Ruben Torres"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "image-moderation": "^1.0.5",
+    "multiscroll.js": "^0.2.2",
+    "pg": "^7.11.0"
+  },
+  "title": "gifplayer",
+  "url_classified": "https://www.moderatecontent.com/img/sample_faces.jpg",
+  "rating_index": 1,
+  "rating_letter": "e",
+  "predictions": {
+    "teen": 4.9053038160006,
+    "everyone": 92.642044275999,
+    "adult": 2.4526519080003
+  },
+  "rating_label": "everyone",
+  "error_code": 0,
+  "frame": 1
+}
