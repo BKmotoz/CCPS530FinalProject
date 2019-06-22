@@ -1,5 +1,6 @@
 # CCPS530FinalProject
 Final Project Files
+http://www.denimoclockfinal.com.s3-website.us-east-2.amazonaws.com/
 
 For my CCPS 530 project, I built a basic website using HTML, javascript, and JQuery. This website was developed around the requirements outlined on the CCPS 530 Final Project marking rubric. This website was deployed on AWS and included the following elements:
 
