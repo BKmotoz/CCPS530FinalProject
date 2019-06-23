@@ -5,6 +5,7 @@ http://www.denimoclockfinal.com.s3-website.us-east-2.amazonaws.com/
 ### mySQL AWS RDS
 http://ec2-3-17-165-24.us-east-2.compute.amazonaws.com/SamplePage.php
 ### Demo Vid:
+https://youtu.be/VTrr2jpy2zQ
 finalProjectDemo.MP4
 ## Overview
 For my CCPS 530 project, I built a basic website using HTML, CSS, php, javascript, and JQuery. Since this was my first exposure to webdev, I tried to utilize most of the languages covered on sololearn. This website was developed around the requirements outlined on the CCPS 530 Final Project marking rubric. This website was deployed on AWS and included the following elements:
