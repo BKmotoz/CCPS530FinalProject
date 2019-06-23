@@ -1,0 +1,42 @@
+body { 
+        background: #ADD8E6; 
+        margin: 0
+        auto; 
+        width:100%; 
+        max-width: 900px; 
+        text-align: center;
+}
+/*
+header {
+        background-color: #888888;
+        text-align: center;
+    height:auto;
+    border-radius: 5px;
+    padding: 5px;
+}
+*/
+img {
+    max-width:100%;
+    height:auto;
+
+}
+
+/*
+form {
+        padding: 10px;
+        border: 10px solid yellow;
+        width: 35vw;
+        box-shadow: 10px 10px 8px 10px #888888;
+        border-radius: 40px
+        text-align: center;
+}
+*/
+input[type='submit'] {
+
+        width: 100%;
+        margin-left: 10px;
+        color: white;
+        background: green;
+        border-radius: 25px;
+        float: center;
+}
