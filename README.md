@@ -1,5 +1,5 @@
 # CCPS530FinalProject
-### Final Project Files
+### Final Project Deployed on AWS
 http://www.denimoclockfinal.com.s3-website.us-east-2.amazonaws.com/
 
 ### mySQL AWS RDS
