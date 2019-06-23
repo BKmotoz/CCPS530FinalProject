@@ -27,9 +27,7 @@ SamplePage.php
 Regex was implemented to ensure email is entered in the correct format. 
 
 ## Bootstrap:
-colorpicker
-image resizing
-Bootstrap is implemented for resizing the webpage based on which device it's opened on. 
+Bootstrap was implemented for resizing the webpage based on which device it's opened on.
 
 ## API's using JQuery
 GifPlayer
@@ -40,4 +38,4 @@ Weather API
 https://openweathermap.org/api
 The weather API pulls in the json data and parses the weather .png as well as the current temperature. 
 
-CSS and javascript paired with JQuery were used to format the website and add responsiveness.
+CSS and javascript - paired with JQuery - were used to format the website and add responsiveness.
