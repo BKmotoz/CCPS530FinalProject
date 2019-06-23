@@ -9,10 +9,10 @@ finalProjectDemo.MP4
 ## Overview
 For my CCPS 530 project, I built a basic website using HTML, CSS, php, javascript, and JQuery. Since this was my first exposure to webdev, I tried to utilize most of the languages covered on sololearn. This website was developed around the requirements outlined on the CCPS 530 Final Project marking rubric. This website was deployed on AWS and included the following elements:
 
-Deployment: 
-Main html website including associated css / js / jquer in on AWS within one bucket
+## Deployment: 
+Main html website - including associated css / js / jquery / php files - deployed on AWS within one bucket.
 
-Database Connection:
+## Database Connection:
 mySQL deployed on AWS RDS instance. Files contained within db folder. Deployed files include:
 -SamplePage.php
 -SamplePage.css
@@ -24,12 +24,12 @@ The working database consists of the following files saved in the db folder:
 SamplePage.css
 SamplePage.php
 
-Bootstrap:
+## Bootstrap:
 colorpicker
 image resizing
 Bootstrap is implemented for resizing the webpage based on which device it's opened on. 
 
-API's using JQuery
+## API's using JQuery
 GifPlayer
 http://rubentd.com/gifplayer/
 The gif player pulls in the API to animate the .png by using mouseover. 
