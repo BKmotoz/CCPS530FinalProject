@@ -24,6 +24,8 @@ The working database consists of the following files saved in the db folder:
 SamplePage.css
 SamplePage.php
 
+Regex was implemented to ensure email is entered in the correct format. 
+
 ## Bootstrap:
 colorpicker
 image resizing
