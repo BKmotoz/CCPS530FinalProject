@@ -41,7 +41,7 @@
   <input type="text" name="NAME" maxlength="45" size="30" />
       </td>
       <td>
-  <input type="text" name="ADDRESS" maxlength="90" size="60" />
+  <input type="text" name="ADDRESS" maxlength="90" size="60" pattern="^([a-zA-Z_\-\.]+)@([a-zA-Z_\-\.]+)\.([a-zA-Z]{2,5})$"/>
       </td>
       <td>
   <input type="submit" value="Add Data" />
